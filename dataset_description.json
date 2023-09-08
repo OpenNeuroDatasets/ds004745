@@ -1,0 +1,13 @@
+{
+  "ReferencesAndLinks": ["10.1109/EMBC46164.2021.9629771"],
+  "Authors": ["Velu Prabhakar Kumaravel",
+ 	      "Victor Kartsch",
+	      "Simone Benatti",
+	      "Giorgio Vallortigara",
+              "Elisabetta Farella", 
+              "Marco Buiatti"],
+  "Name": "8-Channel SSVEP EEG Dataset with Artifacts Trials",
+  "License": "CC0",
+  "BIDSVersion": "1.8.0",
+  "HEDVersion": "8.1.0"
+}
