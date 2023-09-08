@@ -15,5 +15,7 @@
     "BIDSVersion": "1.8.0",
     "HEDVersion": "8.1.0",
     "DatasetDOI": "doi:10.18112/openneuro.ds004745.v1.0.0",
-    "Funding": []
+    "Funding": [
+        "NeuroSoNew ERC PoC Grant 842243"
+    ]
 }
