@@ -10,7 +10,7 @@
         "Elisabetta Farella",
         "Marco Buiatti"
     ],
-    "Name": "8-Channel SSVEP EEG Dataset with Artifacts Trials",
+    "Name": "8-Channel SSVEP EEG Dataset with Artifact Trials",
     "License": "CC0",
     "BIDSVersion": "1.8.0",
     "HEDVersion": "8.1.0",
